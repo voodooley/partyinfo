@@ -1,3 +1,6 @@
 venv/
-.idea
-.csv
+*.idea
+*.csv
+*.txt
+*.html
+*.log
